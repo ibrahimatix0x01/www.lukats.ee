@@ -1,4 +1,4 @@
-# www.lukats.ee
+# www.lukats.ee   subdomain takeover
 
 
 
